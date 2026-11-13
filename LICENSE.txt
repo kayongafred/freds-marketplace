@@ -1,0 +1,23 @@
+Copyright (c) 2026 Kayonga eMarket. All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE
+
+The original source code, visual design, text, logo, and branding in this
+project are proprietary to Kayonga eMarket, except for third-party materials
+and user-submitted content identified or governed by separate terms.
+
+Except where applicable law provides otherwise, no permission or license is
+granted to copy, modify, distribute, sublicense, publish, or use the
+proprietary materials to create another product or service without prior
+written permission from the rights holder.
+
+You may access and use the publicly available Kayonga eMarket website for its
+intended marketplace purpose, subject to the website's Terms of Use. Access
+to the website does not grant a license to its source code, design, logo, or
+branding.
+
+Third-party software, fonts, and other materials remain governed by their
+respective licenses and terms. User-submitted listings and photos are not
+covered by this license.
+
+For permission requests, contact kayongafred87@gmail.com.
